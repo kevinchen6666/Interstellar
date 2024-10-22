@@ -24,7 +24,8 @@ const config = {
     kevin17: "c3m1y5k8",  
     kevin18: "p7t6b4f1",  
     kevin19: "l8r3u9w2",  
-    kevin20: "j9f5t1v3",  
+    kevin20: "j9f5t1v3",
+    KC: "keitorin",
   },  
 };  
 
